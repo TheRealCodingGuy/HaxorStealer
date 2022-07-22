@@ -11,10 +11,8 @@ This **Bot** is for **Educational purposes**
 **How to build your own stealer:** *+build {webhook}*
   
 
-**Bot Invite: <a href="https://discord.com/api/oauth2/authorize?client_id=997254745188208700&permissions=8&scope=bot">CLICK</a>**
 
-
-**Support Server: <a href="https://discord.gg/stealers">discord.gg/stealers</a>**
+**Discord: <a href="https://discord.gg/stealers">discord.gg/stealers</a>**
 
 
 # Features
