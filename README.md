@@ -12,7 +12,7 @@ This **Bot** is for **Educational purposes**
   
 
 
-**Discord: <a href="https://discord.gg/stealers">discord.gg/stealers</a>**
+**Discord: <a href="https://discord.gg/3MHsb3VPap">LINK</a>**
 
 
 # Features
